@@ -1,5 +1,5 @@
 
-# 🏭 Garments Factory Production Analysis
+# 🏭  Factory Production and labour Analysis
 
 This project analyzes production data from a garments factory using Microsoft Excel, focusing on performance tracking and data-driven insights.
 
